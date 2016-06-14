@@ -10,7 +10,6 @@ body {
   margin: 0 0 2rem;
   font-family: Raleway, sans-serif;
   color: #272727;
-  background-color: ;
 }
 
 .top-nav {
@@ -44,7 +43,6 @@ body {
   justify-content: center;
   height: 100vh;
   text-align: center;
-
 
   background: url('http://www.developerdev.com/images/placeholders/1920x1200-3.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;

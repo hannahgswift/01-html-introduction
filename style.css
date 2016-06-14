@@ -44,7 +44,7 @@ body {
   height: 100vh;
   text-align: center;
 
-  background: url('http://www.developerdev.com/images/placeholders/1920x1200-3.jpg') no-repeat center center fixed;
+  background: url('http://static1.squarespace.com/static/5160f38ee4b0f29c92630ca9/t/56fdd7bdcf80a18b903979c3/1459476464451/?format=1500w') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -96,14 +96,14 @@ body {
 }
 
 #bg-photo {
-  background: url('http://i.imgur.com/PNpGUvq.jpg?1') no-repeat center center;
+  background: url('http://static1.squarespace.com/static/5160f38ee4b0f29c92630ca9/t/56fdd0bb45bf2169629e6259/1459476244000/?format=1500w') no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
 
-.bg-pop_divider {
+.bg-pop .divider {
   border-bottom-color: #f1f1f1;
 }
 
